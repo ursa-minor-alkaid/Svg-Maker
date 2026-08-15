@@ -1,6 +1,6 @@
 ---
 name: "svg-maker"
-description: "专业 SVG 生成器，遵循 Chat2SVG/SVGThinker 最佳实践。当用户说\"帮我生成 SVG\"\"画一个 SVG\"\"create an SVG\"\"draw SVG\"\"制作矢量图\"或类似表达时调用。支持架构图、流程图、图标、信息图、插画等各类 SVG。"
+description: "专业 SVG 生成器。当用户说\"帮我生成 SVG\"\"画一个 SVG\"\"create an SVG\"\"draw SVG\"\"制作矢量图\"或类似表达时调用。"
 ---
 
 # SVG Maker — 专业 SVG 矢量图生成器
