@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 128 128">
+  <!-- 圆角徽章背景 -->
+  <rect id="bg-badge" x="8" y="8" width="112" height="112" rx="28" fill="#f1f5f9"/>
+
+  <!-- 左括号 < -->
+  <polyline id="left-bracket" points="42,38 30,64 42,90" fill="none" stroke="#334155" stroke-width="5" stroke-linecap="round" stroke-linejoin="round"/>
+
+  <!-- 右括号 > -->
+  <polyline id="right-bracket" points="86,38 98,64 86,90" fill="none" stroke="#334155" stroke-width="5" stroke-linecap="round" stroke-linejoin="round"/>
+
+  <!-- 斜杠 / -->
+  <line id="slash" x1="54" y1="78" x2="74" y2="50" stroke="#334155" stroke-width="5" stroke-linecap="round"/>
+
+  <!-- 中央圆点 — 象征"A line is a dot that went for a walk" -->
+  <circle id="center-dot" cx="64" cy="64" r="5" fill="#2563eb"/>
+</svg>

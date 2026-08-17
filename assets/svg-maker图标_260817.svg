@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 128 128" width="128" height="128" font-family="system-ui, sans-serif">
+
+  <!-- ==================== 徽章底 ==================== -->
+  <rect id="badge" x="0" y="0" width="128" height="128" rx="28" fill="#F5F3FF" stroke="#EDE9FE" stroke-width="2"/>
+
+  <!-- ==================== 代码括号 ==================== -->
+  <!-- 左括号 <（蓝） -->
+  <polyline id="bracket-left" points="46,45 27,64 46,83" fill="none" stroke="#2563EB" stroke-width="11" stroke-linecap="round" stroke-linejoin="round"/>
+  <!-- 右括号 >（紫） -->
+  <polyline id="bracket-right" points="82,45 101,64 82,83" fill="none" stroke="#7C3AED" stroke-width="11" stroke-linecap="round" stroke-linejoin="round"/>
+
+  <!-- ==================== 中央双色圆 ==================== -->
+  <!-- 左半圆（蓝，与左括号同色） -->
+  <path id="disc-left" d="M64 47 A17 17 0 0 0 64 81 Z" fill="#2563EB"/>
+  <!-- 右半圆（紫，与右括号同色） -->
+  <path id="disc-right" d="M64 47 A17 17 0 0 1 64 81 Z" fill="#7C3AED"/>
+
+  <!-- ==================== 中心锚点节点 ==================== -->
+  <circle id="anchor-node" cx="64" cy="64" r="4.5" fill="#FFFFFF"/>
+
+</svg>
